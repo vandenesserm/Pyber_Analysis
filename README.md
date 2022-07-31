@@ -26,6 +26,7 @@ Conduct an in-depth data analysis of ride-sharing data for urban, suburban and r
 ## Results: 
 #
 ### Pyber Dataframe Summary
+![Picture: Update](./analysis/Fig5.png)
 <img src=https://raw.githubusercontent.com/vandenesserm/Pyber_Analysis/main/Resources/Pyber_Summary_df.png> 
  <figcaption> Fig. 1 - Pyber DataFrame Summary </figcaption>
 </br>
